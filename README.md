@@ -26,3 +26,11 @@ Open `index.html` in a browser, or from this folder run:
 ```bash
 python3 -m http.server 8080
 ```
+
+## Game
+
+[Catch the Clams](https://platinum00001.github.io/dans-clams/game.html) is a small HTML5 canvas game on this site (bucket, falling foil-wrapped clams, seagulls to dodge, local high score). No external game libraries.
+
+## Menu note
+
+Stuffed quahogs / stuffed clams are $10 each. Other prices are still placeholders.
