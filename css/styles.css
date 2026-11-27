@@ -379,3 +379,27 @@ input:focus, select:focus, textarea:focus {
   font-size: 0.92rem;
 }
 .play-preview img { width: 100%; height: auto; display: block; }
+
+.stand-photo {
+  margin: 2.75rem auto 0;
+  max-width: 32rem;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  background: var(--navy);
+  scroll-margin-top: calc(var(--header-h) + 0.75rem);
+}
+.stand-photo img,
+.stand-photo picture,
+.stand-photo source {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.stand-photo figcaption {
+  margin: 0;
+  padding: 0.7rem 1rem 0.85rem;
+  background: var(--navy);
+  color: var(--sand);
+  font-size: 0.92rem;
+}
